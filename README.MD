@@ -1,12 +1,12 @@
 # Verkefni 1
 
 svar vid spurningu 1
-cd - faera sig um skraarkerfid
-ls - synir lista af filunum sem er a stadnum
-pwd - synir hvar madur er i kerfinu
-mkdir - byr til skrar og files
+cd - færa sig um skráarkerfid
+ls - sýnir lista af filunum sem eru á staðnum
+pwd - sýnir hvar maður er i kerfinu
+mkdir - býr til skrár og files
 
 svar vid spurningu 2
-git clone - byr til copy af git repository 
-git status - synir nuverandi stodu vinnumoppunar og svaedid innan git geymslu
+git clone - býr til copy af git repository 
+git status - sýnir núverandi stöðu vinnumöppunar og svæðið innan git geymslu
 git diff - ber saman breytingar milli utgafa af sama repository
